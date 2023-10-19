@@ -1,0 +1,5 @@
+1, admin, n
+0, dragan98, MyPass54
+0, hristo_misto, secretPass
+1, yordan98, passwordD
+1, tester123, pass

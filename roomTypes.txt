@@ -1,0 +1,4 @@
+Single, 1, 45, Air conditioning, TV
+Double, 2, 64, Air conditioning, TV, Desk
+Deluxe, 3, 73, Air conditioning, TV, Desk, Couch
+Suite, 5, 92, Air conditioning, TV, Desk, Couch, Free Shampoo
